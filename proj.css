@@ -1,0 +1,19 @@
+body{
+    background-color: #10091D;
+    font-size:x-large
+}
+h1{background-color: #46315C;
+    padding:15px;
+   color:#D9D8D9;
+   }
+
+h2{color:#B3A3BA;
+   font-size:30px}
+p{color:white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:medium}
+form{
+    background-color:rgba(131, 122, 122, 0.411);
+    font-size: larger;
+    font-style: oblique;
+    color:yellow}
