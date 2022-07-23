@@ -9,7 +9,7 @@ arr[3]=prompt('fourth task here','no task -left empty-');
 
 arr[4]=prompt('fifth task here','no task -left empty-');
 
-alert("Don't overload your schedule! 5 tasks are enough.");
+alert("Completed setting up your tasks!");
 
 var a=arr[0]
 var b=arr[1]
